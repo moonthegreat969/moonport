@@ -1,0 +1,290 @@
+.outercontainer{
+	background-image: url(https://github.com/moonthegreat969/moonport/blob/gh-pages/wpbgg4.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 0 0 0 0;
+	border: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+.innercontainer{
+	background-image: url(https://github.com/moonthegreat969/moonport/blob/gh-pages/wpbgg.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 2px solid red;
+	height: 500px;
+	width: 1000px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+		}
+
+#header{
+	top: 0;
+	left: 0;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	position: fixed;
+}
+#beforefooter{
+	bottom: 30px;
+	left: 0px;
+	height: 25px;
+	width: 100%;
+	background-color: black;
+	display: inline-flex;
+	position: fixed;
+}
+#footer{
+	bottom: 0;
+	left: 0;
+	height: 30px;
+	width: 100%;
+	background-color: ;
+	position: fixed;
+}
+
+#afterfooter{
+	bottom: 0;
+	right: 20px;
+	height: 40px;
+	width: 300px;
+	background-color: #008ecc;
+	position: fixed;
+}
+
+.msgdown{
+	font-family:comic sans ms;
+	color:black;
+	top: 8px;
+	left: 12px;
+	display: inline-block;
+	position: relative;
+	font-size: 13px;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.chaticon{
+        height: 20px;
+        width: 18px;
+        display: inline-flex;
+        position: relative;
+        top: 13px;
+        margin-left: 150px;
+}
+
+#box1{
+	background-color: black;
+   margin-top: 50px;
+   display: flex;
+   height: 150px;
+   width: 250px;
+   margin-left: 260px;
+   bottom: 0px;
+}
+
+
+#img{
+	margin-top: 8px;
+	margin-left: 10px;
+	margin-right: 8px;
+	display: flex;
+	position: absolute;
+}
+
+#box2{
+   background-color: black;
+   margin-top: 50px;
+   display: flex;
+   height: 150px;
+   width: 250px;
+   margin-left: 30px;
+   margin-bottom: 0px;
+	padding-bottom: 0px;
+	border-bottom: 0px;
+}
+
+#allboxes{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+    margin-bottom: 0px;
+	padding-bottom: 0px;
+	border-bottom: 0px;
+	line-height: 0px;
+	margin-left: 0px;
+	justify-content:;
+}
+
+.leftward{
+	margin-left: 260px;
+}
+
+.hovertext{
+	font-family:consolas;
+	color:gray;
+	justify-items:center;
+	margin-top: 15px;
+	display: inline-block;
+	position: relative;
+	font-size: 13px;
+}
+
+
+.logo{
+	font-family: ;
+	left: 0px;
+	color: white;
+	margin-top: 15px;
+	display: inline-block;
+	position: relative;
+	font-size: 17px;
+	font-weight: bold;
+	font-family: copperplate gothic;
+}
+
+.hovertext:hover {
+	;
+	border-bottom:  3px solid #008ecc;
+	border-radius: 2px;
+	color: white;
+	font-size: 14px;
+	margin-top
+}
+.hovertext2{
+	;
+	border-bottom:  3px solid #008ecc;
+	border-radius: 2px;
+	color: white;
+	font-size: 13px;
+	margin-top
+	font-family:consolas;
+	justify-items:center;
+	margin-top: 15px;
+	display: inline-block;
+	position: relative;
+	}
+.signup{
+	font-family:Helvetica;
+	color:#008ecc;
+	justify-items:center;
+	margin-top: 12px;
+	display: inline-block;
+	position: relative;
+	margin-left: 280px;
+	font-size: 12px;
+}
+
+.login{
+	font-family:Helvetica;
+	color:gray;
+	justify-items:center;
+	margin-top: 12px;
+	display: inline-block;
+	position: relative;
+	margin-left: 3px;
+	font-size: 12px;
+}
+
+
+.profileimage{
+	height: 10px;
+	width: 10px;
+}
+.profileimage2{
+	top: 5px;
+	height: 20px;
+	width: 20px;
+	margin-left: 15px;
+	margin-right: 0;
+	padding-right: 0;
+	border-right: 0;
+	display: inline-block;
+	position: relative;
+
+	}
+.nigerianflag{
+	height: 10px;
+	width: 15px;
+	margin-left: 10px;
+	padding: 0;
+	border: 0;
+}
+
+
+.heading{
+	margin-left: 350px ;
+	display: inline-flex;
+	margin-top: 120px;
+	margin-bottom: 0px;
+	padding: 0px;
+	border: 0px;
+	justify-content: center;
+	font-family: trebuchet ms;
+	font-size: 25px;
+	color: white;
+}
+
+.underimageflex{
+	font-family: century gothic ;
+	font-size: 15px;
+	display: flex;
+	margin-top: 140px;
+	margin-right: 50%;
+	font-weight: bold;
+	color: white;
+}
+
+.leftward2{
+	margin-left: 10px;
+}
+.services{
+	font-family:Helvetica;
+	color:#008ecc;
+	bottom: 12px;
+	display: inline-block;
+	position: relative;
+	font-size: 10px;
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+.lost{
+	font-family:Helvetica;
+	color:gray;
+	justify-items:center;
+	margin-left: 3px;
+	bottom: 12px;
+	display: inline-block;
+	position: relative;
+	font-size: 12px;
+}
+
+.footersocialicons{
+	height: 10px;
+	width: 10px;
+	margin-left: 4px;
+	bottom: 12px;
+	display: inline-block;
+	position: relative;
+}
+
+.footermsg{
+	height: 90px;
+	width: 100px;
+	background-color: light#008ecc;
+	margin-left: px;
+	z-index: 90;
+	position: absolute;
+}
+
+.logo{
+	margin-left: px;
+	height:40px;
+	width: 120px;
+}
